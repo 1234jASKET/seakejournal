@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gb!x)ub1c=9t2po1btycr$4c+fy!583rp+5w^x2fd#i@c4@yjx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['seakejournal.onrender.com']
 
 
 # Application definition
